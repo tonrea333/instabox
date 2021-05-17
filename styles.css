@@ -1,0 +1,190 @@
+.outer-box {
+    height: 610px;
+    width: 100%;
+    border: solid red 2px;
+
+    
+}
+
+.right-up-box {
+    height: 300px;
+    width: 40%;
+    border: solid green 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-up-box {
+    height: 300px;
+    width: 60%;
+    border: solid green 2px;
+}
+
+.bottom-box {
+    height: 300px;
+    width: 100%;
+    border: solid blue 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top-box {
+    height: 300px;
+    width: 100%;
+    border: solid orangered 2px;
+    display:flex;
+    flex-direction: row;
+}
+
+.rub-1 {
+    height: 100px;
+    width: 30%;
+    border: solid red 2px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.lub-1 {
+    height: 80px;
+    width: 60%;
+    border: solid purple 2px;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    
+}
+
+.lub-2 {
+    height: 80px;
+    width: 60%;
+    border: solid purple 2px;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.lub-3 {
+    height: 100px;
+    width: 80%;
+    border: solid purple 2px;
+}
+
+.talent {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+    
+    
+}
+.travel {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+}
+.beauty {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+}
+.fluff {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+}
+.ASMR {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+}
+.sports {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+}
+.art {
+    height: 120px;
+    width: 10%;
+    border: solid purple 2px;
+}
+.arrow {
+    height: 100px;
+    width: 10%;
+    border: solid purple 2px;
+}
+
+.slub-1 {
+    height: 20px;
+    width: 25%;
+    border: solid blue 2px;
+    font-size:20px;
+    
+}
+.slub-2 {
+    height: 20px;
+    width: 15%;
+    border: solid blue 2px;
+}
+.slub-3 {
+    height: 20px;
+    width: 25%;
+    border: solid blue 2px;
+}
+.slub-4 {
+    height: 20px;
+    width: 25%;
+    border: solid blue 2px;
+}
+
+.slub-01 {
+    height: 20px;
+    width: 25%;
+    border: solid blue 2px;
+}
+.slub-02 {
+    height: 20px;
+    width: 32%;
+    border: solid blue 2px;
+}
+.slub-03 {
+    height: 20px;
+    width: 32%;
+    border: solid blue 2px;
+}
+
+
+.slub-11 {
+    height: 20px;
+    width: 32%;
+    border: solid blue 2px;
+}
+
+
+.slub-12 {
+    height: 20px;
+    width: 100%;
+    border: solid blue 2px;
+}
+
+
+.slub-13 {
+    height: 20px;
+    width: 40;
+    border: solid blue 2px;
+}
+
+
+.slub-14 {
+    height: 20px;
+    width: 55%;
+    border: solid blue 2px;
+    margin-top: 10px;
+}
